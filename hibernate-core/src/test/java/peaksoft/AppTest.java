@@ -1,4 +1,4 @@
-package beksultandev;
+package peaksoft;
 
 import static org.junit.Assert.assertTrue;
 
